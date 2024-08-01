@@ -14,13 +14,19 @@ A basic terminal-based media player written in Python using 'pygame'
 
 # Commands
 
-```load <filepath>```: Load an audio file
-```play```: Start playback
-```pause```: Pause playback
-```unpause```: Resume playback
-```stop```: Stop playback
-```volume <0-100>```: Set volume as a percentage
-```quit```: Exit the player
+- ```load <filepath>```: Load an audio file
+
+- ```play```: Start playback
+
+- ```pause```: Pause playback
+
+- ```unpause```: Resume playback
+
+- ```stop```: Stop playback
+
+- ```volume <0-100>```: Set volume as a percentage
+
+- ```quit```: Exit the player
 
 # Requirements
 

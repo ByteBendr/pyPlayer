@@ -34,6 +34,8 @@ A basic terminal-based media player written in Python using 'pygame'
 
 - Python 3.x
 - ```pygame``` library
+- ```colorama``` library
+- ```yt-dlp``` library 
 
 # Usage
 

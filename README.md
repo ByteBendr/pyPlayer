@@ -28,7 +28,7 @@ A basic terminal-based media player written in Python using 'pygame'
 
 - ```quit```: Exit the player
 
-- ```youtube <youtube link>```: Loads a song from YouTube (downloads the audio locally and automatically loads and plays it) [ONLY IN v1.0.2]
+- ```youtube <youtube link>```: Loads a song from YouTube (downloads the audio locally and automatically loads and plays it) [**ONLY IN v1.0.2**]
 
 # Requirements
 
